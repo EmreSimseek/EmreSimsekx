@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmreSimsekx
 - 👀 I’m interested in football and ı love listen to music
-- 🌱 I’m currently learning english and programming language
+- 🌱 I’m currently learning english and C,Java,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
